@@ -1,0 +1,11 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- .
+- ../liquidhaskell
+- ../liquidhaskell/liquid-fixpoint
+extra-deps:
+- fgl-visualize-0.1.0.1
+- located-base-0.1.1.1
+- tasty-rerun-1.1.14
+resolver: lts-13.4
